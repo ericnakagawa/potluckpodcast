@@ -21,7 +21,7 @@ Episodes:
 
 * [Potluck Podcast #1 by Eric Nakagawa with Joyce Park and Adam Rifkin](http://feed.potluckpodcast.com/redirect/potluck/sha/1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3) _January 17, 2017_
 
-	I chat with Adam Rifkin and Joyce Park, founders of the Bay Area engineer and entrepreneur meetup [106 Miles](https://www.meetup.com/106miles/).
+	I chat with [Adam Rifkin](http://twitter.com/ifindkarma) and [Joyce Park](http://twitter.com/troutgirl), founders of the Bay Area engineer and entrepreneur meetup [106 Miles](https://www.meetup.com/106miles/).
 
 	Links:
 
