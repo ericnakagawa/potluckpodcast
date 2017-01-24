@@ -29,8 +29,8 @@ Notes:
 * Hoala moved to SF to join 500 Startups and grow Paubox
 * Off Topic - Kayak fishing, [Hoala's kayak](http://www.austinkayak.com/products/22193/Ocean-Kayak-Trident-13-Angler-Kayak-2017.html)
 	* Kayak Crabbing
-* <a href="#" onClick="jump('1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3', 800)">13:20</a> Catching Marlin
-* <a href="#" onClick="jump('1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3', 1837)">20:30</a> Native Hawaiians in Tech
+* <a href="#" onClick="jump('a54f4cd217a93f37715f8a68f1f88c3af0bd25cc.mp3', 800)">13:20</a> Catching Marlin
+* <a href="#" onClick="jump('a54f4cd217a93f37715f8a68f1f88c3af0bd25cc.mp3', 1837)">20:30</a> Native Hawaiians in Tech
 
 Hawaii vocabulary:
 
