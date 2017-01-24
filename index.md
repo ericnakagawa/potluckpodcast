@@ -29,8 +29,8 @@ Notes:
 * Hoala moved to SF to join 500 Startups and grow Paubox
 * Off Topic - Kayak fishing, [Hoala's kayak](http://www.austinkayak.com/products/22193/Ocean-Kayak-Trident-13-Angler-Kayak-2017.html)
 	* Kayak Crabbing
-* <a href="#" onClick="jump('player-2', 800)">13:20</a> Catching Marlin
-* <a href="#" onClick="jump('player-2', 1837)">20:30</a> Native Hawaiians in Tech
+* <a href="#" onClick="jump('1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3', 800)">13:20</a> Catching Marlin
+* <a href="#" onClick="jump('1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3', 1837)">20:30</a> Native Hawaiians in Tech
 
 Hawaii vocabulary:
 
@@ -55,12 +55,14 @@ For the first episode I traveled to Sunnyvale to chat with [Adam Rifkin](http://
 Links:
 
 * [Adam's recent post on Happiness and Meaning](https://medium.com/@ifindkarma/panda-notes-on-happiness-and-meaning-394b074a0742#.8oe2yh65x)
-	
-<audio class="player" id="player-1" controls>
-	<source src="http://feed.potluckpodcast.com/redirect/potluck/sha/1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3" type="audio/mpeg">
+
+<audio class="player" id="1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3" ontimeupdate="updateOffset('1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3')" controls>
+	<source src="http://feed.potluckpodcast.com/redirect/potluck/sha/1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3"
+	        type="audio/mpeg"
+	         />
 	Your browser does not implement html5 audio.
 </audio>
-
+	
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
