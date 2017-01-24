@@ -6,6 +6,7 @@
     <title>Potluck Podcast by Eric Nakagawa</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/css/potluck.css">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -21,7 +22,13 @@
 
     <link rel="alternate" type="application/rss+xml" title="Potluck Podcast by Eric Nakagawa"  href="http://feed.potluckpodcast.com/rss" />
 
-    <meta rss
+    <script>
+      function jump(player, seconds) {
+        var player = document.getElementById(player);
+        player.currentTime = seconds;
+        player.play();
+      }
+    </script>
 
   </head>
   <body>
