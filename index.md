@@ -40,8 +40,8 @@ Hawaii vocabulary:
 * _aku_ - fish, Samurai Jack
 * _opelu_ - fish, Mackarel scad
 
-<audio class="player" id="1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3" ontimeupdate="updateOffset('1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3')" controls>
-	<source src="http://feed.potluckpodcast.com/redirect/potluck/sha/1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3"
+<audio class="player" id="a54f4cd217a93f37715f8a68f1f88c3af0bd25cc.mp3" ontimeupdate="updateOffset('a54f4cd217a93f37715f8a68f1f88c3af0bd25cc.mp3')" controls>
+	<source src="http://feed.potluckpodcast.com/redirect/potluck/sha/a54f4cd217a93f37715f8a68f1f88c3af0bd25cc.mp3"
 	        type="audio/mpeg"
 	         />
 	Your browser does not implement html5 audio.
