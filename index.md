@@ -20,7 +20,7 @@ description: A weekly episode by Eric Nakagawa about ¯\\\\_(ツ)_/¯.
 ## Potluck Podcast #2 by Eric Nakagawa with Hoala Greevy ##
 _January 24, 2017_
 
-This week I'm in North Beach chatting with Hoala Greevy CEO of Paubox and Native Hawaiian.
+This week I'm in North Beach chatting with Hoala Greevy CEO of Paubox and talking about being a Native Hawaiian in tech in the Bay Area.
 
 Notes:
 
