@@ -23,22 +23,15 @@ _February 9, 2017_
 This week I'm in San Mateo chatting with Arin Sarkissian (founder of Jeraff makers of iOS app Well, acquired by LinkedIn) about getting into software development, transitioning from startup founder to a corporate job, transitioning to new things, and Nintendo!
 
 Notes:
-* <a href="#" onClick="jump('a54f4cd217a93f37715f8a68f1f88c3af0bd25cc.mp3', 52)">00:52</a> Arin's background
-* <a href="#" onClick="jump('a54f4cd217a93f37715f8a68f1f88c3af0bd25cc.mp3', 427)">00:52</a> Getting into Tech
-* <a href="#" onClick="jump('a54f4cd217a93f37715f8a68f1f88c3af0bd25cc.mp3', 676)">00:52</a> Intel inside
-* <a href="#" onClick="jump('a54f4cd217a93f37715f8a68f1f88c3af0bd25cc.mp3', 720)">00:52</a> A friend like Rich
+* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 52)">00:52</a> Arin's background
+* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 427)">00:52</a> Getting into Tech
+* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 676)">00:52</a> Intel inside
+* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 720)">00:52</a> A friend like Rich
 
 ... more coming.
 
 <audio class="player" id="f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3" ontimeupdate="updateOffset('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3')" controls>
 	<source src="http://feed.potluckpodcast.com/redirect/potluck/sha/f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3"
-	        type="audio/mp3"
-	         />
-	Your browser does not implement html5 audio.
-</audio>
-
-<audio class="player" id="1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3" ontimeupdate="updateOffset('1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3')" controls>
-	<source src="http://feed.potluckpodcast.com/redirect/potluck/sha/1bb9746929110b675b8bdaa2c466bd18b2d82b57.mp3"
 	        type="audio/mp3"
 	         />
 	Your browser does not implement html5 audio.
