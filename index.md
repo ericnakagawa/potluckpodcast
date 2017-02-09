@@ -23,6 +23,7 @@ _February 9, 2017_
 This week I'm in San Mateo chatting with Arin Sarkissian (founder of Jeraff makers of iOS app Well, acquired by LinkedIn) about getting into software development, transitioning from startup founder to a corporate job, transitioning to new things, and Nintendo!
 
 Notes:
+
 * <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 52)">00:52</a> Arin's background
 * <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 427)">00:52</a> Getting into Tech
 * <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 676)">00:52</a> Intel inside
