@@ -25,9 +25,9 @@ This week I'm in San Mateo chatting with Arin Sarkissian (founder of Jeraff make
 Notes:
 
 * <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 52)">00:52</a> Arin's background
-* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 427)">00:52</a> Getting into Tech
-* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 676)">00:52</a> Intel inside
-* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 720)">00:52</a> A friend like Rich
+* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 427)">07:07</a> Getting into Tech
+* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 676)">11:16</a> Intel inside
+* <a href="#" onClick="jump('f05db2174f60f6bd9a9cb73bc9488427803fc54d.mp3', 720)">12:00</a> A friend like Rich
 
 ... more coming.
 
