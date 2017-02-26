@@ -17,7 +17,7 @@ description: A weekly episode by Eric Nakagawa about ¯\\\\_(ツ)_/¯.
 	}
 </style>
 
-## Potluck Podcsst #4 by Eric Nakagawa with Jim Barcelona ##
+## Potluck Podcast #4 by Eric Nakagawa with Jim Barcelona ##
 _February 25, 2017_
 
 In this episode I sit down with Jim Barcelona and talk about instagram landscape photography, a lightweight wardrobe, and photography backpacking.
