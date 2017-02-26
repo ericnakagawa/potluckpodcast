@@ -38,7 +38,7 @@ Notes:
 
 * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '5:29')">5:29</a> -- @barce on instagram 
 * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '8:07')">8:07</a> -- 100s of Bay Bridge photos
- * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '8:36')">8:36</a> -- the two types of instagram landscape photographers 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '8:36')">8:36</a> -- the two types of instagram landscape photographers 
 * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '10:17')">10:17</a> -- consistency key to ig success 
 * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '11:16')">11:16</a> -- growing ig followers 
 * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '13:15')">13:15</a> -- @barce's viral ig photo 
