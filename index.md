@@ -22,6 +22,11 @@ _February 25, 2017_
 
 In this episode I sit down with Jim Barcelona and talk about instagram landscape photography, a lightweight wardrobe, and photography backpacking.
 
+<audio id="fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3" ontimeupdate="updateOffset('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3')" controls >
+	<source src="http://podswell.com/redirect/podswell/sha/fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3?name=potluck"
+	type="audio/mp3" />
+</audio>
+
 * Barce's ig: [https://www.instagram.com/barce/ ](https://www.instagram.com/barce/ )
 * Barce's website: [http://www.bracketthis.com/](http://www.bracketthis.com/)
 *  Barce's store: [http://barce.bigcartel.com/](http://barce.bigcartel.com/)
@@ -51,12 +56,6 @@ Notes:
 * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '30:23')">30:23</a> -- simplifying 
 * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '37:15')">37:15</a> -- traveling light, packing a 25lb backpack for photography 
 * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '43:10')">43:10</a> -- first backpacking trip + finding water in desert
-
-<audio id="fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3" ontimeupdate="updateOffset('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3')" controls >
-                        <source src="http://podswell.com/redirect/podswell/sha/fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3?name=potluck"
-                                type="audio/mp3"
-                                 />
-                </audio>
 
 ## Potluck Podcast #3 by Eric Nakagawa with Arin Sarkissian ##
 _February 9, 2017_
