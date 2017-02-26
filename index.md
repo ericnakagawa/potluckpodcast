@@ -31,7 +31,7 @@ In this episode I sit down with Jim Barcelona and talk about instagram landscape
 * Barce's website: [http://www.bracketthis.com/](http://www.bracketthis.com/)
 *  Barce's store: [http://barce.bigcartel.com/](http://barce.bigcartel.com/)
 
-* Eric's ig: https://www.instagram.com/awagakancire  
+* Eric's ig: [https://www.instagram.com/awagakancire  ](https://www.instagram.com/awagakancire  )
 
 Clothes mentioned in this episode:
 * [ex officio](https://exofficio.com/) (travel clothes) 
