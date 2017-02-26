@@ -17,8 +17,7 @@ description: A weekly episode by Eric Nakagawa about ¯\\\\_(ツ)_/¯.
 	}
 </style>
 
-
-##Episode #4##
+##Potluck Podcsst #4 by Eric Nakagawa with Jim Barcelona##
 
 In this episode I sit down with Jim Barcelona and talk about instagram landscape photography, a lightweight wardrobe, and photography backpacking.
 
@@ -112,7 +111,7 @@ Hawaii vocabulary:
 ## Potluck Podcast #1 by Eric Nakagawa with Joyce Park and Adam Rifkin ##
 _January 17, 2017_
 
-For the first episode I traveled to Sunnyvale to chat with [Adam Rifkin](http://twitter.com/ifindkarma) and [Joyce Park](http://twitter.com/troutgirl), founders of the Bay Area engineer and entrepreneur meetup [106 Miles](https://www.meetup.com/106:iles/).
+For the first episode I traveled to Sunnyvale to chat with [Adam Rifkin](http://twitter.com/ifindkarma) and [Joyce Park](http://twitter.com/troutgirl), founders of the Bay Area engineer and entrepreneur meetup [106 Miles](https://www.meetup.com/106miles/).
 
 Links:
 
