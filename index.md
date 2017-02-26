@@ -32,7 +32,7 @@ Eric's ig: https://www.instagram.com/awagakancire  Clothes mentioned in this
 * mizzen+main (athleisure fabric + dress wear) https://www.mizzenandmain.com/
 * icebreaker (socks) http://www.icebreaker.com/en/mens-socks 
 
-__Jumps___
+Notes:
 
 <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '5:29')">5:29</a> -- @barce on instagram 
 <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '8:07')">8:07</a> -- 100s of Bay Bridge photos
