@@ -18,6 +18,7 @@ description: A weekly episode by Eric Nakagawa about ¯\\\\_(ツ)_/¯.
 </style>
 
 ## Potluck Podcsst #4 by Eric Nakagawa with Jim Barcelona ##
+_February 25, 2017_
 
 In this episode I sit down with Jim Barcelona and talk about instagram landscape photography, a lightweight wardrobe, and photography backpacking.
 
@@ -25,11 +26,13 @@ Barce's ig: [https://www.instagram.com/barce/ ](https://www.instagram.com/barc
 Barce's website: [http://www.bracketthis.com/](http://www.bracketthis.com/)
  Barce's store: [http://barce.bigcartel.com/](http://barce.bigcartel.com/)
 
-Eric's ig: https://www.instagram.com/awagakancire  Clothes mentioned in this episode:
-* ex officio (travel clothes) https://exofficio.com/
-* marmot (lightweight) http://marmot.com/
-* mizzen+main (athleisure fabric + dress wear) https://www.mizzenandmain.com/
-* icebreaker (socks) http://www.icebreaker.com/en/mens-socks 
+Eric's ig: https://www.instagram.com/awagakancire  
+
+Clothes mentioned in this episode:
+* [ex officio](https://exofficio.com/) (travel clothes) 
+* [marmot](http://marmot.com/) (lightweight)
+* [mizzen+main](https://www.mizzenandmain.com) (athleisure fabric + dress wear)
+* [icebreaker](http://www.icebreaker.com/en/mens-socks ) (socks)
 
 Notes:
 
@@ -40,7 +43,7 @@ Notes:
 <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '11:16')">11:16</a> -- growing ig followers 
 <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '13:15')">13:15</a> -- @barce's viral ig photo 
 <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '14:19')">14:19</a> -- ig celebrities 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '17:40')">17:40</a> -- chasing Karl (SF fog) http://barce.bigcartel.com/product/the-bridge-in-fog 
+<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '17:40')">17:40</a> -- chasing Karl (SF fog) See photo [here](http://barce.bigcartel.com/product/the-bridge-in-fog )
 <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '21:08')">21:08</a> -- bay bridge via gg 
 <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '23:04')">23:04</a> -- death valley! 
 <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '24:09')">24:09</a> -- photos taken with later gen phones, no phone saturdays? 
