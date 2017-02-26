@@ -36,21 +36,21 @@ Clothes mentioned in this episode:
 
 Notes:
 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '5:29')">5:29</a> -- @barce on instagram 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '8:07')">8:07</a> -- 100s of Bay Bridge photos
- <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '8:36')">8:36</a> -- the two types of instagram landscape photographers 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '10:17')">10:17</a> -- consistency key to ig success 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '11:16')">11:16</a> -- growing ig followers 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '13:15')">13:15</a> -- @barce's viral ig photo 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '14:19')">14:19</a> -- ig celebrities 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '17:40')">17:40</a> -- chasing Karl (SF fog) See photo [here](http://barce.bigcartel.com/product/the-bridge-in-fog )
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '21:08')">21:08</a> -- bay bridge via gg 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '23:04')">23:04</a> -- death valley! 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '24:09')">24:09</a> -- photos taken with later gen phones, no phone saturdays? 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '29:24')">29:24</a> -- losing your photo library 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '30:23')">30:23</a> -- simplifying 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '37:15')">37:15</a> -- traveling light, packing a 25lb backpack for photography 
-<a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '43:10')">43:10</a> -- first backpacking trip + finding water in desert
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '5:29')">5:29</a> -- @barce on instagram 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '8:07')">8:07</a> -- 100s of Bay Bridge photos
+ * <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '8:36')">8:36</a> -- the two types of instagram landscape photographers 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '10:17')">10:17</a> -- consistency key to ig success 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '11:16')">11:16</a> -- growing ig followers 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '13:15')">13:15</a> -- @barce's viral ig photo 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '14:19')">14:19</a> -- ig celebrities 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '17:40')">17:40</a> -- chasing Karl (SF fog) See photo [here](http://barce.bigcartel.com/product/the-bridge-in-fog )
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '21:08')">21:08</a> -- bay bridge via gg 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '23:04')">23:04</a> -- death valley! 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '24:09')">24:09</a> -- photos taken with later gen phones, no phone saturdays? 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '29:24')">29:24</a> -- losing your photo library 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '30:23')">30:23</a> -- simplifying 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '37:15')">37:15</a> -- traveling light, packing a 25lb backpack for photography 
+* <a href="#" onClick="jumpStr('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3', '43:10')">43:10</a> -- first backpacking trip + finding water in desert
 
 <audio id="fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3" ontimeupdate="updateOffset('fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3')" controls >
                         <source src="http://podswell.com/redirect/podswell/sha/fd06c6bd6b1bb6f16d46ad96fdfb92e4e4ae3201.mp3?name=potluck"
