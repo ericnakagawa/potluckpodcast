@@ -24,32 +24,34 @@ In this episode I sit down with Ana Arriola (Global VP, UX & Design / Visual Dis
 
 We talk about fashion by way of socks, Kyoto, and japanese knives.
 
-<audio id="XXXXXXXXXX.mp3" ontimeupdate="updateOffset('XXXXXXXXXX.mp3')" controls >
-	<source src="http://podswell.com/redirect/podswell/sha/XXXXXXXXXX.mp3?name=potluck"
+<audio id="1c1543f3c80668875ee18e83896c8743b24e547b.mp3" ontimeupdate="updateOffset('1c1543f3c80668875ee18e83896c8743b24e547b.mp3')" controls >
+	<source src="http://podswell.com/redirect/podswell/sha/1c1543f3c80668875ee18e83896c8743b24e547b.mp3?name=potluck"
 	type="audio/mp3" />
 </audio>
 
 Ana's glasses - [kuboraum](https://www.instagram.com/kuboraum/)
 
+Eric's new favorite sock - [Smartwool PhD Run Ultra Light Micro](http://www.smartwool.com/shop/mens-phd-run-ultra-light-micro-socks-sw0sw148)
+
  Phnam Bagley's [architecture inspired leather](https://www.instagram.com/eternalluxe/)
 
 Notes:
 
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">0m54</a> - Smartwool, athleisure, north face purple label 
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">2m31</a> - Asymmetric clothing for women 
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">3m11</a> - Wordnik and the McKeans 
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">3m49</a> - [Dress A Day](https://dressaday.com/ by Erin McKean )
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">5m24</a> - [Divka](https://www.instagram.com/divkanet/)
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">7m26</a> - bespoke caps, kyoto 
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">8m44</a> - 深い (fukui) 
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">10m39</a> - furniture 
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">13m14s</a> - an art gallery at home 
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">14m8s</a> - japanese knives
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">16m06</a> - a knife maker's story
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">0m54</a> - Smartwool, athleisure, north face purple label 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">2m31</a> - Asymmetric clothing for women 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">3m11</a> - Wordnik and the McKeans 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">3m49</a> - [Dress A Day](https://dressaday.com/ by Erin McKean )
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">5m24</a> - [Divka](https://www.instagram.com/divkanet/)
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">7m26</a> - bespoke caps, kyoto 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">8m44</a> - 深い (fukui) 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">10m39</a> - furniture 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">13m14s</a> - an art gallery at home 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">14m8s</a> - japanese knives
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">16m06</a> - a knife maker's story
 	* [Baze's Blades](https://www.instagram.com/bazesblades/) 
 	* [Forging a sanmai (3-layer)](https://www.instagram.com/p/BGrLCBhMZvP/?taken-by=bazesblades)
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">22m13</a> - Ana's favorite knife
-* <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">27m24</a> - Glasses!
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">22m13</a> - Ana's favorite knife
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:29')">27m24</a> - Glasses!
 * The best shop in Tokyo (Shibuya) [Globe Specs](http://www.globespecs.co.jp/)
 
 ## Potluck Podcast #4 by Eric Nakagawa with Jim Barcelona ##
