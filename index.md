@@ -30,25 +30,40 @@ We talk about fashion by way of socks, Kyoto, and japanese knives.
 </audio>
 
 Ana's glasses - [kuboraum](https://www.instagram.com/kuboraum/)
+
  Phnam Bagley's [architecture inspired leather](https://www.instagram.com/eternalluxe/)
 
 Notes:
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">0m54</a> - Smartwool, athleisure, north face purple label 
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">2m31</a> - Asymmetric clothing for women 
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">3m11</a> - Wordnik and the McKeans 
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">3m49</a> - [Dress A Day](https://dressaday.com/ by Erin McKean )
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">5m24</a> - [Divka](https://www.instagram.com/divkanet/)
 
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">7m26</a> - bespoke caps, kyoto 
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">8m44</a> - 深い (fukui) 
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">10m39</a> - furniture 
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">13m14s</a> - an art gallery at home 
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">14m8s</a> - japanese knives
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">16m06</a> - a knife maker's story
-* [Baze's Blades](https://www.instagram.com/bazesblades/) 
-* [Forging a sanmai (3-layer)](https://www.instagram.com/p/BGrLCBhMZvP/?taken-by=bazesblades)
+
+	* [Baze's Blades](https://www.instagram.com/bazesblades/) 
+	* [Forging a sanmai (3-layer)](https://www.instagram.com/p/BGrLCBhMZvP/?taken-by=bazesblades)
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">22m13</a> - Ana's favorite knife
+
 * <a href="#" onClick="jumpStr('XXXXXXXXXX.mp3', '5:29')">27m24</a> - Glasses!
+
 * The best shop in Tokyo (Shibuya) [Globe Specs](http://www.globespecs.co.jp/)
 
 ## Potluck Podcast #4 by Eric Nakagawa with Jim Barcelona ##
