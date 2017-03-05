@@ -50,7 +50,7 @@ Notes:
 	* [Forging a sanmai (3-layer)](https://www.instagram.com/p/BGrLCBhMZvP/?taken-by=bazesblades)
 * <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '22m13')">22m13</a> - Ana's favorite knife
 * <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '27m24')">27m24</a> - Glasses!
-* The best shop in Tokyo (Shibuya) [Globe Specs](http://www.globespecs.co.jp/)
+	* The best shop in Tokyo (Shibuya) [Globe Specs](http://www.globespecs.co.jp/)
 
 ## Potluck Podcast #4 by Eric Nakagawa with Jim Barcelona ##
 _February 25, 2017_
