@@ -20,7 +20,7 @@ description: A weekly episode by Eric Nakagawa about ¯\\\\_(ツ)_/¯.
 ## Potluck Podcast #5 with Ana Arriola ##
 _March 4, 2017_
 
-In this episode I sit down with Ana Arriola (Global VP, UX & Design / Visual Display + Digital Appliances at Samsung). Ana previously co-founded Monohm a company building the anti-phone Runcible. Follow Ana [here](https://twitter.com/arriola )
+In this episode I sit down with Ana Arriola (Global VP, UX & Design / Visual Display + Digital Appliances at Samsung). Ana previously co-founded Monohm a company building the anti-phone Runcible. Follow Ana [here](https://twitter.com/arriola ).
 
 We talk about fashion by way of socks, Kyoto, and japanese knives.
 
