@@ -30,22 +30,24 @@ We talk about fashion by way of socks, Kyoto, and japanese knives.
 </audio>
 
 Ana's glasses - [kuboraum](https://www.instagram.com/kuboraum/)
+
 Eric's new favorite sock - [Smartwool PhD Run Ultra Light Micro](http://www.smartwool.com/shop/mens-phd-run-ultra-light-micro-socks-sw0sw148)
+
  Phnam Bagley's [architecture inspired leather](https://www.instagram.com/eternalluxe/)
 
 Notes:
 
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '0m54')">0m54</a> - Smartwool, athleisure, north face purple label 
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '2m31')">2m31</a> - Asymmetric clothing for women 
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '3m11')">3m11</a> - Wordnik and the McKeans 
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '3m49')">3m49</a> - [Dress A Day](https://dressaday.com/ by Erin McKean )
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5m24')">5m24</a> - [Divka](https://www.instagram.com/divkanet/)
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '7m26')">7m26</a> - bespoke caps, kyoto 
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '8m44')">8m44</a> - 深い (fukui) 
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '10m39')">10m39</a> - furniture 
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '13m14s')">13m14s</a> - an art gallery at home 
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '14m8s')">14m8s</a> - japanese knives
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '16m06')">16m06</a> - a knife maker's story
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '0:54')">0m54</a> - Smartwool, athleisure, north face purple label 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '2:31')">2m31</a> - Asymmetric clothing for women 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '3:11')">3m11</a> - Wordnik and the McKeans 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '3:49')">3m49</a> - [Dress A Day](https://dressaday.com/ by Erin McKean )
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:24')">5m24</a> - [Divka](https://www.instagram.com/divkanet/)
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '7:26')">7m26</a> - bespoke caps, kyoto 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '8:44')">8m44</a> - 深い (fukui) 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '10:39')">10m39</a> - furniture 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '13:14')">13m14</a> - an art gallery at home 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '14:08')">14m08</a> - japanese knives
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '16:06')">16m06</a> - a knife maker's story
 	* [Baze's Blades](https://www.instagram.com/bazesblades/) 
 	* [Forging a sanmai (3-layer)](https://www.instagram.com/p/BGrLCBhMZvP/?taken-by=bazesblades)
 * <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '22m13')">22m13</a> - Ana's favorite knife
