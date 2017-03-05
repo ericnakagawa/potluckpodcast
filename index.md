@@ -29,11 +29,9 @@ We talk about fashion by way of socks, Kyoto, and japanese knives.
 	type="audio/mp3" />
 </audio>
 
-Ana's glasses - [kuboraum](https://www.instagram.com/kuboraum/)
-
-Eric's new favorite sock - [Smartwool PhD Run Ultra Light Micro](http://www.smartwool.com/shop/mens-phd-run-ultra-light-micro-socks-sw0sw148)
-
- Phnam Bagley's [architecture inspired leather](https://www.instagram.com/eternalluxe/)
+* Ana's glasses - [kuboraum](https://www.instagram.com/kuboraum/)
+* Eric's new favorite sock - [Smartwool PhD Run Ultra Light Micro](http://www.smartwool.com/shop/mens-phd-run-ultra-light-micro-socks-sw0sw148)
+*  Phnam Bagley's [architecture inspired leather](https://www.instagram.com/eternalluxe/)
 
 Notes:
 
