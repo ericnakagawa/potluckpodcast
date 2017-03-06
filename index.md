@@ -41,7 +41,7 @@ Notes:
 * <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '3:49')">3m49</a> - [Dress A Day](https://dressaday.com/ by Erin McKean )
 * <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '5:24')">5m24</a> - [Divka](https://www.instagram.com/divkanet/)
 * <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '7:26')">7m26</a> - Bespoke caps, Kyoto  [Blue Books Co](https://www.instagram.com/bluebooksco/)
-* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '8:44')">8m44</a> - 深い (fukui) 
+* <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '8:44')">8m44</a> - 深い (fukai) 
 * <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '10:39')">10m39</a> - furniture 
 * <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '13:14')">13m14</a> - an art gallery at home 
 * <a href="#" onClick="jumpStr('1c1543f3c80668875ee18e83896c8743b24e547b.mp3', '14:08')">14m08</a> - japanese knives
